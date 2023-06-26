@@ -1,0 +1,15 @@
+@import './base.css';
+@import 'bootstrap';
+
+h1 {
+    color: red;
+    padding: 40px;
+    border-bottom: 1px solid black;
+}
+
+input {
+    background-color: rgb(224, 224, 224);
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px;
+}
